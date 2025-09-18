@@ -59,3 +59,5 @@ $ npm run start
 - Jest and Truffle Tests
 - TypeScript
 - Redux + Transmute Framework (Redux for Smart Contracts)
+
+  `If you have some questions in this project, feel free to reach out.`
